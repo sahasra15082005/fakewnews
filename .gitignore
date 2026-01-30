@@ -1,0 +1,19 @@
+# Data
+data/
+*.csv
+
+# DVC
+.dvc/
+.dvc/cache/
+.dvc/tmp/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
